@@ -1,0 +1,20 @@
+nav ul{
+    
+    text-align: right;
+    margin-top: 3vh;
+    font-size: 20px;
+    margin-right: 50px;
+    word-spacing: 50px;
+   
+
+}
+ul a{
+    color: rgb(201, 245, 5);
+    text-decoration-line: none;
+  
+}
+.message {
+    font-size: 18px; /* Adjust font size */
+    color: red; /* Change color for visibility */
+    margin-top: 10px; /* Add some space above the message */
+}
